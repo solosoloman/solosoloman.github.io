@@ -7,6 +7,10 @@ You can look at [editor on GitHub](https://github.com/solosoloman/solosoloman.gi
 ### Introduction
 
 My name is Soloman Wong
+
 School: University of California-Davis
+
 Major: Statistics and Economics
+
+Data Science Interest
 

@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Soloman Wong GitHub Pages
 
 <p class="red">Hello everyone!</p>
 
@@ -12,7 +12,7 @@ School: University of California-Davis
 
 Major: Statistics and Economics
 
-Data Science Interest
+Data Science Interest: I am very interested in exploring relationship between varaibles in the data sets. I like using different plots and variables to explain and tell story about these data sets
 
 ### Linkedin and resume
 [Link to my linkedin](https://www.linkedin.com/in/soloman-wong-4b4547108/)

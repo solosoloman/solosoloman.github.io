@@ -14,3 +14,5 @@ Major: Statistics and Economics
 
 Data Science Interest
 
+### Linkedin
+[Link to my linkedin](https://www.linkedin.com/in/soloman-wong-4b4547108/)

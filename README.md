@@ -14,8 +14,9 @@ Major: Statistics and Economics
 
 Data Science Interest
 
-### Linkedin
+### Linkedin and resume
 [Link to my linkedin](https://www.linkedin.com/in/soloman-wong-4b4547108/)
+[Resume](https://github.com/solosoloman/solosoloman.github.io/blob/master/resume/resume.pdf)
 
 
 ### Previous Statistics 141b Assignment

@@ -22,3 +22,8 @@ Data Science Interest
 
 ### Previous Statistics 141b Assignment
 [Assignment 3](https://github.com/solosoloman/solosoloman.github.io/blob/master/assignment3finaldraft.ipynb)
+
+### Previous Project
+[Logistic Regression](https://github.com/solosoloman/solosoloman.github.io/blob/master/project/sta%20138%20project.pdf)
+
+[Milk Production](https://github.com/solosoloman/solosoloman.github.io/blob/master/project/sta137project.pdf)

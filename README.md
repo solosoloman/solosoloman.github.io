@@ -16,3 +16,7 @@ Data Science Interest
 
 ### Linkedin
 [Link to my linkedin](https://www.linkedin.com/in/soloman-wong-4b4547108/)
+
+
+### Previous Statistics 141b Assignment
+[Assignment 3](https://github.com/solosoloman/solosoloman.github.io/blob/master/assignment3finaldraft.ipynb)

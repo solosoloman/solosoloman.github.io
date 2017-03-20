@@ -2,8 +2,6 @@
 
 <p class="red">Hello everyone!</p>
 
-You can look at [editor on GitHub](https://github.com/solosoloman/solosoloman.github.io/edit/master/README.md) to check my own information
-
 ### Introduction
 image
 <img src = "who am I/myimage.jpg" >
@@ -35,3 +33,6 @@ The goal of our project was to determine how the Golden State Warriors (GSW) won
 [Logistic Regression](https://github.com/solosoloman/solosoloman.github.io/blob/master/project/sta%20138%20project.pdf)
 
 [Milk Production](https://github.com/solosoloman/solosoloman.github.io/blob/master/project/sta137project.pdf)
+
+You can look at [editor on GitHub](https://github.com/solosoloman/solosoloman.github.io/edit/) to check my own information
+

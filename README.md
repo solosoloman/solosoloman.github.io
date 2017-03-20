@@ -21,10 +21,10 @@ Data Science Interest: I am very interested in exploring relationship between va
 
 ### STA 141B Final Project
 [Final Project](https://github.com/solosoloman/solosoloman.github.io/blob/master/project/STA141B_Final_Project_Ngo_Wongfinal.ipynb)
-<a href = "project/STA141B_Final_Project_Ngo_Wongfinal.htmll">Second Link</a>
+[second link](project/STA141B_Final_Project_Ngo_Wongfinal.htmll)
 
 
-Onjectives:
+Objectives:
 
 The goal of our project was to determine how the Golden State Warriors (GSW) won the 2015 NBA Finals. We investigated the Warriors playoffs run to try to understand the different factors that might explain why they were so successful.
 

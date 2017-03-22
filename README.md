@@ -3,7 +3,7 @@
 <p class="red">Hello everyone!</p>
 
 ### Introduction
-image
+
 <img src = "who am I/myimage.jpg" >
 
 My name is Soloman Wong
@@ -20,9 +20,9 @@ Data Science Interest: I am very interested in exploring relationship between va
 [Resume](https://github.com/solosoloman/solosoloman.github.io/blob/master/resume/resume.pdf)
 
 ### STA 141B Final Project
-[Final Project](https://github.com/solosoloman/solosoloman.github.io/blob/master/project/STA141B_Final_Project_Ngo_Wongfinal.ipynb)
+[Final Project](https://github.com/solosoloman/solosoloman.github.io/blob/master/project/STA141B_Final_Project_Ngo_Wong.ipynb)
 
-[second link](project/STA141B_Final_Project_Ngo_Wongfinal.html)
+[second link](project/STA141B_Final_Project_Ngo_Wong.html)
 
 
 Objectives:

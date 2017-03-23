@@ -37,5 +37,5 @@ The goal of our project was to determine how the Golden State Warriors (GSW) won
 
 [Milk Production](https://github.com/solosoloman/solosoloman.github.io/blob/master/project/sta137project.pdf)
 
-You can look at [editor on GitHub](https://github.com/solosoloman/solosoloman.github.io/edit/) to check my own information
+You can look at [editor on GitHub](https://github.com/solosoloman/solosoloman.github.io/) to check my own information
 

@@ -14,6 +14,8 @@ Major: Statistics and Economics
 
 Data Science Interest: I am very interested in exploring relationship between varaibles in the data sets. I like using different plots and variables to explain and tell story about these data sets
 
+About me: I am a 4th year students and I am graduating in June 2017. I am currently looking for data analyst related job position. If you/ your company offer related position, please contact me through spwong@ucdavis.edu
+
 ### Linkedin and resume
 [Link to my linkedin](https://www.linkedin.com/in/soloman-wong-4b4547108/)
 

@@ -24,6 +24,7 @@ Data Science Interest: I am very interested in exploring relationship between va
 
 [second link](project/STA141B_Final_Project_Ngo_Wong.html)
 
+[third link](https://github.com/jdngo/sta141bfinal)
 
 Objectives:
 
